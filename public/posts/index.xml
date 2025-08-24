@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 24 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cache Overview</title>
+      <link>/posts/cache-overview/</link>
+      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/cache-overview/</guid>
+      <description>&lt;h2 id=&#34;what-is-cache&#34;&gt;What is Cache?&lt;/h2&gt;&#xA;&lt;p&gt;Simply put: &lt;strong&gt;a cache is a small, fast memory that stores frequently used or nearby data to improve performance.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;performance&#34;&gt;Performance&lt;/h2&gt;&#xA;&lt;p&gt;To understand why caching improves performance, we need to consider &lt;strong&gt;buffering&lt;/strong&gt;, the &lt;strong&gt;principle of locality&lt;/strong&gt;, and &lt;strong&gt;prefetching&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The goal is to &lt;strong&gt;maximize cache hits&lt;/strong&gt; (when requested data is found in the cache) and &lt;strong&gt;minimize cache misses&lt;/strong&gt; (when it isn’t).&lt;/p&gt;&#xA;&lt;h3 id=&#34;buffering&#34;&gt;Buffering&lt;/h3&gt;&#xA;&lt;p&gt;A cache temporarily stores data — a form of buffering — so the system can avoid fetching it again from slower memory.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
