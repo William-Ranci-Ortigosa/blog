@@ -3,7 +3,7 @@
 A personal blog where I write about the things I'm learning, my interests, and my hobbies.
 Built with [Hugo](https://gohugo.io/) using the [nostyleplease](https://github.com/hanwenguo/hugo-theme-nostyleplease) theme.
 
-🌐 [**Live Site:**](william-ranci-ortigosa.github.io/blog/) 
+🌐 **Live Site:** [here](https://william-ranci-ortigosa.github.io/blog/) 
 
 ---
 
